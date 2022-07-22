@@ -1,0 +1,6 @@
+
+You Opted OddEven Function
+2
+You Opted Pattern Function
+2
+You Opted Exit
